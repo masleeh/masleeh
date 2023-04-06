@@ -1,10 +1,18 @@
-<div id="header" align="center">
-  <img src="https://masleeh.com/images/me.jpg" width="100"/>
-</div>
+
 
 ### Hi there 👋
 
-## 
+# I am Frontend Next.js | React.js developer
+
+# My personal website:
+
+## [https://masleeh.com/] (masleeh.com)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/matvey-simonenkov-69a389261/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **masleeh/masleeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
