@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-I am Frontend Next.js | React.js developer\n
+I am Frontend Next.js | React.js developer
+
 My personal website: [masleeh.com](https://masleeh.com/)
 
 <div id="badges">
