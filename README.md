@@ -3,9 +3,7 @@
 ### Hi there 👋
 
 # I am Frontend Next.js | React.js developer
-
 # My personal website:
-
 ## [https://masleeh.com/](masleeh.com)
 
 <div id="badges">
