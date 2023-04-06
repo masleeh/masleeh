@@ -6,7 +6,7 @@
 
 # My personal website:
 
-## [https://masleeh.com/] (masleeh.com)
+## [https://masleeh.com/](masleeh.com)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/matvey-simonenkov-69a389261/">
