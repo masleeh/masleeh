@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-# I am Frontend Next.js | React.js developer
-# My personal website:
-## [https://masleeh.com/](masleeh.com)
+I am Frontend Next.js | React.js developer
+My personal website: [masleeh.com](https://masleeh.com/)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/matvey-simonenkov-69a389261/">
