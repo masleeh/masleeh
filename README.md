@@ -1,14 +1,12 @@
 
 
-### Hi there 👋
-
-My name is Matvey
+## Hi, My name is Matvey
 
 I am Frontend Next.js | React.js developer
 
 My personal website: [masleeh.com](https://masleeh.com/)
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/matvey-simonenkov-69a389261/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -32,4 +30,5 @@ My personal website: [masleeh.com](https://masleeh.com/)
 </div>
 
 
+## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masleeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
