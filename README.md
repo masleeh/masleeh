@@ -42,3 +42,4 @@ I am Frontend Next.js | React.js developer
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masleeh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/masleeh)
